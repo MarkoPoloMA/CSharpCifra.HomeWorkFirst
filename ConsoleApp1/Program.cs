@@ -7,12 +7,6 @@ namespace ConsoleApp1
         static void Main()
         {
             Console.WriteLine("Hello World");
-            System("pause");
-        }
-
-        private static void System(string v)
-        {
-            throw new NotImplementedException();
         }
     }
 }
